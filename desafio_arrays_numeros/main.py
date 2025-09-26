@@ -1,7 +1,7 @@
 from Especificas import *
 from Array_Generales import *
 
-def mostrar_menu() -> None:
+def mostrar_menu() -> int:
     print("-------------------------------")
     print("1 - Cantidad de positivos y negativos")
     print("2 - Suma de numeros pares")
